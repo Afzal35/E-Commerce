@@ -1,0 +1,11 @@
+ul.cart-items {
+    list-style: none;
+}
+
+.btn-order {
+    padding: 10px 20px;
+    border-radius: 10px;
+    background-color: #455d7a;
+    color: #fff;
+    ;
+}

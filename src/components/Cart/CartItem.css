@@ -1,0 +1,14 @@
+ul.cart-items li {
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+}
+
+.cart-img {
+    width: calc(80px - 5%);
+}
+
+.btn-remove {
+    background-color: #E74C4C;
+    color: #fff;
+}

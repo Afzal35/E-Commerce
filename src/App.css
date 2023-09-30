@@ -1,0 +1,14 @@
+.App {
+  text-align: center;
+}
+
+.cart {
+  padding: 15px 25px;
+  margin-top: 4rem;
+  margin-bottom: -4rem;
+  background-color: #20232A;
+  font-weight: 500;
+  box-shadow: 4px 8px 4px 0 #bbc6e2;
+  border-radius: 20px;
+  color: #fff;
+}

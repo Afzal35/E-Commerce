@@ -1,0 +1,11 @@
+@media screen and (max-width: 768px) {
+    .btn {
+        font-size: 0.75rem;
+    }
+}
+
+.btn {
+    border: none;
+    font-family: 'Poppins', sans-serif;
+    cursor: pointer;
+}
